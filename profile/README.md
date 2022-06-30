@@ -2,9 +2,9 @@
 
 Welcome to Minefly!
 
-Minefly is a Server Hosting Platform which lets everyone in the world create their own Minecraft Servers for free!
+Minefly is a Server Hosting Platform which lets everyone in the world create their own Servers for free!
 
-We provide many users worldwide reliable and performant servers to host anything and everything they would like!
+We provide many users worldwide reliable and performant servers!
 
 
  * [Minefly](https://minefly.org) - Our website
